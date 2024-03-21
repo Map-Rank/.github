@@ -1,5 +1,5 @@
 ## Hey, this is us MAPnRANK 👋
-<h1 style="display: flex; justify-content: space-between; align-items: center;">Welcome to MapnRank <img src="public/assets/images/Logos/logo-small.svg" alt="Image Description" height="70"></h1>
+<h1 style="display: flex; justify-content: space-between; align-items: center;">Welcome to MapnRank <img src="logo-small.svg" alt="Image Description" height="70"></h1>
 
 
  We enable system change in climate risk response through grassroots engagement using inclusive technologies and communo-centric data approaches. Our mission is to : deliver data and tools that addresses knowledge divide in climate change data interpretation and comprehension helping vulnerable communities to take up a participative approach in addressing pressing ecological and socioeconomic challenges affecting their livelihoods.
