@@ -11,13 +11,13 @@
 - Grassroots engagement
 
 # Our services are : 
-![Residat] 
+[Residat] 
 Location data has the potential to enhance efficiencies in all kinds of ways. Bringing this touch into the climate response sector has far-reaching benefits for frontline stakeholders. We are developing a location-based approach for climate data generation and hosting that will put frontline communities at the lamplight of climate information access.
 
-![Environmental-Games]
+[Environmental-Games]
 Vulnerable communities struggling to comprehend drivers of climate change/climate variability are served with customized board games to enhance their understanding of climate change and local climate risk. These games are used to pass vital climate change knowledge to both formally educated and non-educated populations.
 
-![Environmental-consulting]
+[Environmental-consulting]
 We provide tailored support to businesses, local government structures and organisations of all kind that want to improve their local climate impacts. Our team of experience consultants has varied expertise to provide you with efficient tech, business and professional insights to help you lower your carbon footprints and maximise positive environmental impacts.
 
 ## Contact Us via 
